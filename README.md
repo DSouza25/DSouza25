@@ -1,5 +1,5 @@
 ## Opaa! Que bom ter você aqui. Me chamo Dário Souza e sou um desenvolvedor em desenvolvimento.<span style='font-size:50px;'>&#128513;</span>
-Toda a ajuda e mensagem de incentivo é bem-vinda.
+Toda ajuda e mensagem de incentivo é bem-vinda.
 <div align="center">
   <a href="https://github.com/DSouza25">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DSouza25&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
