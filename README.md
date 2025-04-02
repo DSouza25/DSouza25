@@ -1,4 +1,5 @@
-## Opaa! Que bom ter você aqui. Me chamo Dário Souza e sou um desenvolvedor em desenvolvimento.<span style='font-size:50px;'>&#128513;</span>
+## Opaa! Que bom ter você aqui. Me chamo Dário Souza e sou desenvolvedor.<span style='font-size:50px;'>&#128513;</span>
+Espero que goste do que vai encontrar 
 Toda ajuda e mensagem de incentivo é bem-vinda.
 <div align="center">
   <a href="https://github.com/DSouza25">
